@@ -1,0 +1,6133 @@
+{
+  "0.gravatar.com": {
+    "hostname": "0.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "fasobeddaslife.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "1.gravatar.com": {
+    "hostname": "1.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "127.0.0.1": {
+    "hostname": "127.0.0.1",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "194.242.234.211": {
+    "hostname": "194.242.234.211",
+    "favicon": "http://194.242.234.211/favicon.ico",
+    "firstPartyHostnames": [
+      "www.garanteprivacy.it"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "2.bp.blogspot.com": {
+    "hostname": "2.bp.blogspot.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "2.gravatar.com": {
+    "hostname": "2.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "2542116.fls.doubleclick.net": {
+    "hostname": "2542116.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "4954221.fls.doubleclick.net": {
+    "hostname": "4954221.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "4967238.fls.doubleclick.net": {
+    "hostname": "4967238.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.rfihub.com": {
+    "hostname": "a.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.scorecardresearch.com": {
+    "hostname": "a.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.zdbb.net": {
+    "hostname": "a.zdbb.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a1.seadform.net": {
+    "hostname": "a1.seadform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aa.agkn.com": {
+    "hostname": "aa.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax-eu.amazon-adsystem.com": {
+    "hostname": "aax-eu.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax.amazon-adsystem.com": {
+    "hostname": "aax.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "abovetopsecret.api.oneall.com": {
+    "hostname": "abovetopsecret.api.oneall.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accounts-static.cdn.mozilla.net": {
+    "hostname": "accounts-static.cdn.mozilla.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mozilla.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "favicon": "https://www.google.com/favicon.ico",
+    "firstPartyHostnames": [
+      "docs.google.com",
+      "webcookies.org",
+      "www.goanalytics.info",
+      "analytics.google.com",
+      "www.einaudi.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "it.pinterest.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.gstatic.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad-aws-it.neodatagroup.com": {
+    "hostname": "ad-aws-it.neodatagroup.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad-aws.neodatagroup.com": {
+    "hostname": "ad-aws.neodatagroup.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.360yield.com": {
+    "hostname": "ad.360yield.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.crwdcntrl.net": {
+    "hostname": "ad.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.turn.com": {
+    "hostname": "ad.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.yieldlab.net": {
+    "hostname": "ad.yieldlab.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad2.neodatagroup.com": {
+    "hostname": "ad2.neodatagroup.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad49.neodatagroup.com": {
+    "hostname": "ad49.neodatagroup.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adcastapi.juiceadv.com": {
+    "hostname": "adcastapi.juiceadv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ade.googlesyndication.com": {
+    "hostname": "ade.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.treccani.it",
+      "www.google.com",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "www.youtube.com",
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adfarm.mediaplex.com": {
+    "hostname": "adfarm.mediaplex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.rubiconproject.com": {
+    "hostname": "ads.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.stickyadstv.com": {
+    "hostname": "ads.stickyadstv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.viralize.tv": {
+    "hostname": "ads.viralize.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.yahoo.com": {
+    "hostname": "ads.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adsense.codev.wixapps.net": {
+    "hostname": "adsense.codev.wixapps.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dataviz.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adserver-us.adtech.advertising.com": {
+    "hostname": "adserver-us.adtech.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adserver.adtechus.com": {
+    "hostname": "adserver.adtechus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.it": {
+    "hostname": "adservice.google.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.google.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "www.google.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adtech.nflximg.net": {
+    "hostname": "adtech.nflximg.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "advhd.banzaiadv.it": {
+    "hostname": "advhd.banzaiadv.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "advm.brznetwork.com": {
+    "hostname": "advm.brznetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "advs.brznetwork.com": {
+    "hostname": "advs.brznetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adx.adform.net": {
+    "hostname": "adx.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ae01.alicdn.com": {
+    "hostname": "ae01.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aelego.aliexpress.com": {
+    "hostname": "aelego.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cookiebot.com",
+      "dl.acm.org",
+      "www.abovetopsecret.com",
+      "www.privacyitalia.eu",
+      "www.treccani.it",
+      "php.net",
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.microsoft.com": {
+    "hostname": "ajax.microsoft.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youronlinechoices.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aligtr035.mmstat.com": {
+    "hostname": "aligtr035.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amobee-partners.tremorhub.com": {
+    "hostname": "amobee-partners.tremorhub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ams1-ib.adnxs.com": {
+    "hostname": "ams1-ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.google.com": {
+    "hostname": "analytics.google.com",
+    "favicon": "https://analytics.google.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "accounts.google.com"
+    ]
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.informationisbeautifulawards.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "animate.adobe.com": {
+    "hostname": "animate.adobe.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apex.go.sonobi.com": {
+    "hostname": "apex.go.sonobi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-cache.adsnative.com": {
+    "hostname": "api-cache.adsnative.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-public.addthis.com": {
+    "hostname": "api-public.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.adsnative.com": {
+    "hostname": "api.adsnative.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.branch.io": {
+    "hostname": "api.branch.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.embed.ly": {
+    "hostname": "api.embed.ly",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.instagram.com": {
+    "hostname": "api.instagram.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.ryanair.com": {
+    "hostname": "api.ryanair.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "docs.google.com",
+      "www.google.com",
+      "webcookies.org",
+      "sites.google.com",
+      "www.goanalytics.info",
+      "www.einaudi.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "translate.google.it",
+      "www.google.it",
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.link": {
+    "hostname": "app.link",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "as-sec.casalemedia.com": {
+    "hostname": "as-sec.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "as.casalemedia.com": {
+    "hostname": "as.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.adobedtm.com": {
+    "hostname": "assets.adobedtm.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.alicdn.com": {
+    "hostname": "assets.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.nflxext.com": {
+    "hostname": "assets.nflxext.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.pinterest.com": {
+    "hostname": "assets.pinterest.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.cdnst.net": {
+    "hostname": "b.cdnst.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.scorecardresearch.com": {
+    "hostname": "b.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b2ushds2-vh.akamaihd.net": {
+    "hostname": "b2ushds2-vh.akamaihd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bam.nr-data.net": {
+    "hostname": "bam.nr-data.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com",
+      "www.dataviz.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon-eu-ams3.rubiconproject.com": {
+    "hostname": "beacon-eu-ams3.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.krxd.net": {
+    "hostname": "beacon.krxd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.walmart.com": {
+    "hostname": "beacon.walmart.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bh.contextweb.com": {
+    "hostname": "bh.contextweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.contextweb.com": {
+    "hostname": "bid.contextweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.g.doubleclick.net": {
+    "hostname": "bid.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.pubmatic.com": {
+    "hostname": "bid.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bids.proper.io": {
+    "hostname": "bids.proper.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bs.serving-sys.com": {
+    "hostname": "bs.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.amazon-adsystem.com": {
+    "hostname": "c.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.betrad.com": {
+    "hostname": "c.betrad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.evidon.com": {
+    "hostname": "c.evidon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.speedtest.net": {
+    "hostname": "c.speedtest.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.adform.net": {
+    "hostname": "c1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.rfihub.net": {
+    "hostname": "c1.rfihub.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c2.rfihub.net": {
+    "hostname": "c2.rfihub.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-gl.imrworldwide.com": {
+    "hostname": "cdn-gl.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "www.einaudi.it",
+      "www.treccani.it",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-images-1.medium.com": {
+    "hostname": "cdn-images-1.medium.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-static-1.medium.com": {
+    "hostname": "cdn-static-1.medium.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.adnxs.com": {
+    "hostname": "cdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.districtm.io": {
+    "hostname": "cdn.districtm.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.doubleverify.com": {
+    "hostname": "cdn.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.embedly.com": {
+    "hostname": "cdn.embedly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.iubenda.com": {
+    "hostname": "cdn.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "www.einaudi.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jsdelivr.net": {
+    "hostname": "cdn.jsdelivr.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.nmcdn.us": {
+    "hostname": "cdn.nmcdn.us",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.nomix.eu": {
+    "hostname": "cdn.nomix.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.polyfill.io": {
+    "hostname": "cdn.polyfill.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.printfriendly.com": {
+    "hostname": "cdn.printfriendly.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "hacktips.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ravenjs.com": {
+    "hostname": "cdn.ravenjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "open.spotify.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.sharelatex.com": {
+    "hostname": "cdn.sharelatex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.sharelatex.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.smartclip.net": {
+    "hostname": "cdn.smartclip.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.static.zdbb.net": {
+    "hostname": "cdn.static.zdbb.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "www.privacyitalia.eu",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.tradelab.fr": {
+    "hostname": "cdn.tradelab.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.userreport.com": {
+    "hostname": "cdn.userreport.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn3.doubleverify.com": {
+    "hostname": "cdn3.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "it.wikipedia.org",
+      "www.privacyitalia.eu",
+      "www.ryanair.com",
+      "datavizproject.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdp.aliexpress.com": {
+    "hostname": "cdp.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ce.lijit.com": {
+    "hostname": "ce.lijit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ckm-m.xp1.ru4.com": {
+    "hostname": "ckm-m.xp1.ru4.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.youtube.com",
+      "www.cognomix.it",
+      "translate.google.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cmap.alibaba.com": {
+    "hostname": "cmap.alibaba.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.createjs.com": {
+    "hostname": "code.createjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "codex.nflxext.com": {
+    "hostname": "codex.nflxext.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "codicebusiness.shinystat.com": {
+    "hostname": "codicebusiness.shinystat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector-medium.lightstep.com": {
+    "hostname": "collector-medium.lightstep.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "config.seedtag.com": {
+    "hostname": "config.seedtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.navicelladavorio.it",
+      "www.netflix.com",
+      "it.aliexpress.com",
+      "it.pinterest.com",
+      "informationisbeautiful.net",
+      "www.informationisbeautifulawards.com",
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connectkeyword.aliexpress.com": {
+    "hostname": "connectkeyword.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.cookiebot.com": {
+    "hostname": "consent.cookiebot.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cookiebot.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookie-matching.mediarithmics.com": {
+    "hostname": "cookie-matching.mediarithmics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "courses.cs.washington.edu": {
+    "hostname": "courses.cs.washington.edu",
+    "favicon": "https://courses.cs.washington.edu/favicon.ico",
+    "firstPartyHostnames": [
+      "scholar.google.it"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "creative.360yield.com": {
+    "hostname": "creative.360yield.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "creatives.sascdn.com": {
+    "hostname": "creatives.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossroads.eu-west-1.prodaa.netflix.com": {
+    "hostname": "crossroads.eu-west-1.prodaa.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossroads.geo.netflix.com": {
+    "hostname": "crossroads.geo.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossroads.latency.prodaa.netflix.com": {
+    "hostname": "crossroads.latency.prodaa.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossroads.prefix.netflix.com": {
+    "hostname": "crossroads.prefix.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossroads.us-east-1.prodaa.netflix.com": {
+    "hostname": "crossroads.us-east-1.prodaa.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crossroads.us-west-2.prodaa.netflix.com": {
+    "hostname": "crossroads.us-west-2.prodaa.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.gssprt.jp": {
+    "hostname": "cs.gssprt.jp",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csi.gstatic.com": {
+    "hostname": "csi.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "it.wikipedia.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.cognomix.it",
+      "translate.google.it",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csm2waycm-atl.netmng.com": {
+    "hostname": "csm2waycm-atl.netmng.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csync.smartadserver.com": {
+    "hostname": "csync.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cx.atdmt.com": {
+    "hostname": "cx.atdmt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.facebook.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.agkn.com": {
+    "hostname": "d.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d20flqux56m8w7.cloudfront.net": {
+    "hostname": "d20flqux56m8w7.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d33z8jzg2xbwjp.cloudfront.net": {
+    "hostname": "d33z8jzg2xbwjp.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3p55anez7o0gz-cloudfront-net.pinimg.com": {
+    "hostname": "d3p55anez7o0gz-cloudfront-net.pinimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d5p.de17a.com": {
+    "hostname": "d5p.de17a.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "data16.adlooxtracking.com": {
+    "hostname": "data16.adlooxtracking.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it",
+      "www.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "datavizproject.com": {
+    "hostname": "datavizproject.com",
+    "favicon": "http://datavizproject.com/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "maxcdn.bootstrapcdn.com",
+      "platform-api.sharethis.com",
+      "cdnjs.cloudflare.com",
+      "fonts.gstatic.com",
+      "l.sharethis.com",
+      "cdn.userreport.com",
+      "google-analytics.com",
+      "tag.userreport.com",
+      "visitanalytics.userreport.com",
+      "relay.userreport.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "dblp.uni-trier.de": {
+    "hostname": "dblp.uni-trier.de",
+    "favicon": "https://dblp.uni-trier.de/img/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "default.queit.in": {
+    "hostname": "default.queit.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "delivery-europe-west-1.openx.net": {
+    "hostname": "delivery-europe-west-1.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "des.smartclip.net": {
+    "hostname": "des.smartclip.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "desktopapps.ryanair.com": {
+    "hostname": "desktopapps.ryanair.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "digital.mondadori.it": {
+    "hostname": "digital.mondadori.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.einaudi.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "disconnect.me": {
+    "hostname": "disconnect.me",
+    "favicon": "https://disconnect.me/favicon.ico",
+    "firstPartyHostnames": [
+      "en.wikipedia.org"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "js.stripe.com",
+      "s3.amazonaws.com",
+      "q.stripe.com",
+      "en.wikipedia.org"
+    ]
+  },
+  "dl.acm.org": {
+    "hostname": "dl.acm.org",
+    "favicon": "https://dl.acm.org/favicon.ico",
+    "firstPartyHostnames": [
+      "scholar.google.it"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "s7.addthis.com",
+      "translate.google.com",
+      "portalparts.acm.org",
+      "ajax.googleapis.com",
+      "translate.googleapis.com",
+      "m.addthisedge.com",
+      "www.gstatic.com",
+      "www.googletagmanager.com",
+      "m.addthis.com",
+      "www.google-analytics.com",
+      "w.usabilla.com"
+    ]
+  },
+  "dmx.districtm.io": {
+    "hostname": "dmx.districtm.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dockhand.netflix.com": {
+    "hostname": "dockhand.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "docs.google.com": {
+    "hostname": "docs.google.com",
+    "favicon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "apis.google.com",
+      "fonts.googleapis.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ds-4047.kxcdn.com": {
+    "hostname": "ds-4047.kxcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "hacktips.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsp.v.fwmrm.net": {
+    "hostname": "dsp.v.fwmrm.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum.casalemedia.com": {
+    "hostname": "dsum.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dt.adsafeprotected.com": {
+    "hostname": "dt.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e.api.seedtag.com": {
+    "hostname": "e.api.seedtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e100.yt.srs.doubleverify.com": {
+    "hostname": "e100.yt.srs.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e101.yt.srs.doubleverify.com": {
+    "hostname": "e101.yt.srs.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e102.yt.srs.doubleverify.com": {
+    "hostname": "e102.yt.srs.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e103.yt.srs.doubleverify.com": {
+    "hostname": "e103.yt.srs.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e105.yt.srs.doubleverify.com": {
+    "hostname": "e105.yt.srs.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e111.yt.srs.doubleverify.com": {
+    "hostname": "e111.yt.srs.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ec-ns.sascdn.com": {
+    "hostname": "ec-ns.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge.quantserve.com": {
+    "hostname": "edge.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge.sharethis.com": {
+    "hostname": "edge.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "embed.spotify.com": {
+    "hostname": "embed.spotify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "en.wikipedia.org": {
+    "hostname": "en.wikipedia.org",
+    "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "disconnect.me"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "upload.wikimedia.org",
+      "login.wikimedia.org",
+      "meta.wikimedia.org",
+      "disconnect.me"
+    ]
+  },
+  "encrypted-tbn0.gstatic.com": {
+    "hostname": "encrypted-tbn0.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn1.gstatic.com": {
+    "hostname": "encrypted-tbn1.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn2.gstatic.com": {
+    "hostname": "encrypted-tbn2.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "encrypted-tbn3.gstatic.com": {
+    "hostname": "encrypted-tbn3.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ethn.io": {
+    "hostname": "ethn.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-gmtdmp.gd1.mookie1.com": {
+    "hostname": "eu-gmtdmp.gd1.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-u.openx.net": {
+    "hostname": "eu-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "f1.eu.readspeaker.com": {
+    "hostname": "f1.eu.readspeaker.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.garanteprivacy.it",
+      "garanteprivacy.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fasobeddaslife.files.wordpress.com": {
+    "hostname": "fasobeddaslife.files.wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "fasobeddaslife.wordpress.com",
+      "www.facebook.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fasobeddaslife.wordpress.com": {
+    "hostname": "fasobeddaslife.wordpress.com",
+    "favicon": "https://fasobeddaslife.files.wordpress.com/2018/02/cropped-ardently.png?w=32",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s1.wp.com",
+      "stats.wp.com",
+      "s2.wp.com",
+      "s0.wp.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "0.gravatar.com",
+      "fasobeddaslife.files.wordpress.com",
+      "pixel.wp.com"
+    ]
+  },
+  "fastlane.rubiconproject.com": {
+    "hostname": "fastlane.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fei.pro-market.net": {
+    "hostname": "fei.pro-market.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "files.abovetopsecret.com": {
+    "hostname": "files.abovetopsecret.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "docs.google.com",
+      "webcookies.org",
+      "www.youronlinechoices.com",
+      "tools.google.com",
+      "www.cookiebot.com",
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.google.com",
+      "fasobeddaslife.wordpress.com",
+      "hacktips.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "translate.google.it",
+      "informationisbeautiful.net",
+      "www.ryanair.com",
+      "www.speedtest.net",
+      "www.dataviz.com",
+      "datavizproject.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.youronlinechoices.com",
+      "www.goanalytics.info",
+      "accounts.google.com",
+      "www.abovetopsecret.com",
+      "www.youtube.com",
+      "www.treccani.it",
+      "it.sharelatex.com",
+      "fasobeddaslife.wordpress.com",
+      "docs.google.com",
+      "hacktips.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "translate.google.it",
+      "informationisbeautiful.net",
+      "www.ryanair.com",
+      "datavizproject.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fra-30.fra-rtb1.rfihub.com": {
+    "hostname": "fra-30.fra-rtb1.rfihub.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fra1-ib.adnxs.com": {
+    "hostname": "fra1-ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "freight.aliexpress.com": {
+    "hostname": "freight.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "frog.wix.com": {
+    "hostname": "frog.wix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dataviz.com",
+      "www.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fw.adsafeprotected.com": {
+    "hostname": "fw.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g.alicdn.com": {
+    "hostname": "g.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "garanteprivacy.it": {
+    "hostname": "garanteprivacy.it",
+    "favicon": "http://garanteprivacy.it/Garante-Home-theme/images/icons/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "f1.eu.readspeaker.com",
+      "thesaurus.garanteprivacy.it"
+    ]
+  },
+  "geo.moatads.com": {
+    "hostname": "geo.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gj.mmstat.com": {
+    "hostname": "gj.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "global.ib-ibi.com": {
+    "hostname": "global.ib-ibi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "global.proper.io": {
+    "hostname": "global.proper.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "glue-static.s3-external-3.amazonaws.com": {
+    "hostname": "glue-static.s3-external-3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "open.spotify.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "glyph.medium.com": {
+    "hostname": "glyph.medium.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "go.turboadv.com": {
+    "hostname": "go.turboadv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "google-analytics.com": {
+    "hostname": "google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "it.wikipedia.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.youtube.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "www.netflix.com",
+      "it.pinterest.com",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gpsfront.aliexpress.com": {
+    "hostname": "gpsfront.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "graph.facebook.com": {
+    "hostname": "graph.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gurgle.zdbb.net": {
+    "hostname": "gurgle.zdbb.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hacktips.it": {
+    "hostname": "hacktips.it",
+    "favicon": "https://hacktips.it/wp-content/uploads/2016/04/cropped-Logo-HK2-32x32.png",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "cdn.printfriendly.com",
+      "fonts.gstatic.com",
+      "i.imgur.com",
+      "ds-4047.kxcdn.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "hal9000.redintelligence.net": {
+    "hostname": "hal9000.redintelligence.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hits-i.iubenda.com": {
+    "hostname": "hits-i.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "www.einaudi.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i-pinimg-com-cdn-cloudflare-net.pinimg.com": {
+    "hostname": "i-pinimg-com-cdn-cloudflare-net.pinimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.alicdn.com": {
+    "hostname": "i.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.embed.ly": {
+    "hostname": "i.embed.ly",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.imgur.com": {
+    "hostname": "i.imgur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "hacktips.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.pinimg.com": {
+    "hostname": "i.pinimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.scdn.co": {
+    "hostname": "i.scdn.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "open.spotify.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "www.youtube.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.wp.com": {
+    "hostname": "i1.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.ytimg.com": {
+    "hostname": "i1.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2-bzmoohwidwhtusqbnzroedhwjemtub.init.cedexis-radar.net": {
+    "hostname": "i2-bzmoohwidwhtusqbnzroedhwjemtub.init.cedexis-radar.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2-xoaaiqupfkwfvyqranqgehpjdcpykd.init.cedexis-radar.net": {
+    "hostname": "i2-xoaaiqupfkwfvyqranqgehpjdcpykd.init.cedexis-radar.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linkedin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i3.ytimg.com": {
+    "hostname": "i3.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i9.ytimg.com": {
+    "hostname": "i9.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.google.it": {
+    "hostname": "id.google.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "scholar.google.it",
+      "translate.google.it",
+      "www.google.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idpix.media6degrees.com": {
+    "hostname": "idpix.media6degrees.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ih.adscale.de": {
+    "hostname": "ih.adscale.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "iibawards-prod.s3.amazonaws.com": {
+    "hostname": "iibawards-prod.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image2.pubmatic.com": {
+    "hostname": "image2.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image4.pubmatic.com": {
+    "hostname": "image4.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image6.pubmatic.com": {
+    "hostname": "image6.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "infobeautiful4.s3.amazonaws.com": {
+    "hostname": "infobeautiful4.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "informationisbeautiful.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "informationisbeautiful.net": {
+    "hostname": "informationisbeautiful.net",
+    "favicon": "https://informationisbeautiful.net/favicon-32x32.png",
+    "firstPartyHostnames": [
+      "www.google.it"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "s3.amazonaws.com",
+      "infobeautiful4.s3.amazonaws.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "platform.twitter.com",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "syndication.twitter.com",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "static.xx.fbcdn.net",
+      "www.informationisbeautifulawards.com"
+    ]
+  },
+  "ipv4-c035-fra001-ix.1.oca.nflxvideo.net": {
+    "hostname": "ipv4-c035-fra001-ix.1.oca.nflxvideo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ipv4-c038-fra001-ix.1.oca.nflxvideo.net": {
+    "hostname": "ipv4-c038-fra001-ix.1.oca.nflxvideo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ipv4-c049-fra001-ix.1.oca.nflxvideo.net": {
+    "hostname": "ipv4-c049-fra001-ix.1.oca.nflxvideo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ipv4-c060-fra001-ix.1.oca.nflxvideo.net": {
+    "hostname": "ipv4-c060-fra001-ix.1.oca.nflxvideo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ipv4-c073-fra001-ix.1.oca.nflxvideo.net": {
+    "hostname": "ipv4-c073-fra001-ix.1.oca.nflxvideo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ipv4-c083-fra001-ix.1.oca.nflxvideo.net": {
+    "hostname": "ipv4-c083-fra001-ix.1.oca.nflxvideo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "is.alicdn.com": {
+    "hostname": "is.alicdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "it-gmtdmp.mookie1.com": {
+    "hostname": "it-gmtdmp.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "it.aliexpress.com": {
+    "hostname": "it.aliexpress.com",
+    "favicon": "https://ae01.alicdn.com/images/eng/wholesale/icon/aliexpress.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "i.alicdn.com",
+      "ae01.alicdn.com",
+      "assets.alicdn.com",
+      "is.alicdn.com",
+      "cdp.aliexpress.com",
+      "aelego.aliexpress.com",
+      "gpsfront.aliexpress.com",
+      "cmap.alibaba.com",
+      "connect.facebook.net",
+      "www.google-analytics.com",
+      "gj.mmstat.com",
+      "connectkeyword.aliexpress.com",
+      "g.alicdn.com",
+      "aligtr035.mmstat.com",
+      "perf.mmstat.com",
+      "lighthouse.aliexpress.com",
+      "oneid.mmstat.com",
+      "ynuf.alipay.com",
+      "us.ynuf.alipay.com",
+      "us.cobra.aliexpress.com",
+      "sslwidget.criteo.com",
+      "www.facebook.com",
+      "freight.aliexpress.com"
+    ]
+  },
+  "it.linkedin.com": {
+    "hostname": "it.linkedin.com",
+    "favicon": "https://it.linkedin.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "it.pinterest.com": {
+    "hostname": "it.pinterest.com",
+    "favicon": "https://s.pinimg.com/webapp/style/images/favicon-9f8f9adf.png",
+    "firstPartyHostnames": [
+      "www.google.it"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "i.pinimg.com",
+      "s.pinimg.com",
+      "connect.facebook.net",
+      "apis.google.com",
+      "smartlock.google.com",
+      "www.gstatic.com",
+      "sdk.accountkit.com",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "static.xx.fbcdn.net",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "www.googletagmanager.com",
+      "www.googleadservices.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "www.google.it",
+      "i2-bzmoohwidwhtusqbnzroedhwjemtub.init.cedexis-radar.net",
+      "rpt.cedexis.com",
+      "d3p55anez7o0gz-cloudfront-net.pinimg.com",
+      "i-pinimg-com-cdn-cloudflare-net.pinimg.com"
+    ]
+  },
+  "it.sharelatex.com": {
+    "hostname": "it.sharelatex.com",
+    "favicon": "https://it.sharelatex.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "cdn.sharelatex.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "netdna.bootstrapcdn.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "it.wikipedia.org": {
+    "hostname": "it.wikipedia.org",
+    "favicon": "https://it.wikipedia.org/static/favicon/wikipedia.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "upload.wikimedia.org",
+      "meta.wikimedia.org",
+      "login.wikimedia.org",
+      "webcookies.org",
+      "maxcdn.bootstrapcdn.com",
+      "cdnjs.cloudflare.com",
+      "googleads.g.doubleclick.net",
+      "tpc.googlesyndication.com",
+      "csi.gstatic.com",
+      "wikimedia.org"
+    ]
+  },
+  "its.tradelab.fr": {
+    "hostname": "its.tradelab.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "j.adlooxtracking.com": {
+    "hostname": "j.adlooxtracking.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-agent.newrelic.com": {
+    "hostname": "js-agent.newrelic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com",
+      "www.dataviz.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-sec.indexww.com": {
+    "hostname": "js-sec.indexww.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.agkn.com": {
+    "hostname": "js.agkn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.stripe.com": {
+    "hostname": "js.stripe.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "disconnect.me"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.turboadv.com": {
+    "hostname": "js.turboadv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "l.betrad.com": {
+    "hostname": "l.betrad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "l.sharethis.com": {
+    "hostname": "l.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lh3.googleusercontent.com": {
+    "hostname": "lh3.googleusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lh6.googleusercontent.com": {
+    "hostname": "lh6.googleusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lighthouse.aliexpress.com": {
+    "hostname": "lighthouse.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.pinterest.com": {
+    "hostname": "log.pinterest.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.wikimedia.org": {
+    "hostname": "login.wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.wikipedia.org",
+      "en.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org",
+      "www.privacyitalia.eu",
+      "www.einaudi.it",
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org",
+      "www.privacyitalia.eu",
+      "www.einaudi.it",
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "magnetic.t.domdex.com": {
+    "hostname": "magnetic.t.domdex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.googleapis.com": {
+    "hostname": "maps.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "it.wikipedia.org",
+      "www.navicelladavorio.it",
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.complex.com": {
+    "hostname": "media.complex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mediapolisvod.rai.it": {
+    "hostname": "mediapolisvod.rai.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "medium.com": {
+    "hostname": "medium.com",
+    "favicon": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "cdn-static-1.medium.com",
+      "glyph.medium.com",
+      "cdn-images-1.medium.com",
+      "www.google-analytics.com",
+      "collector-medium.lightstep.com",
+      "mq57uuuqz2-dsn.algolia.net",
+      "i.embed.ly",
+      "cdn.embedly.com",
+      "upscri.be",
+      "api.embed.ly"
+    ]
+  },
+  "meta.wikimedia.org": {
+    "hostname": "meta.wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.wikipedia.org",
+      "en.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ml314.com": {
+    "hostname": "ml314.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mq57uuuqz2-dsn.algolia.net": {
+    "hostname": "mq57uuuqz2-dsn.algolia.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "native.sharethrough.com": {
+    "hostname": "native.sharethrough.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "netdna.bootstrapcdn.com": {
+    "hostname": "netdna.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.sharelatex.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "occ-0-401-399.1.nflxso.net": {
+    "hostname": "occ-0-401-399.1.nflxso.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "oneid.mmstat.com": {
+    "hostname": "oneid.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ookla-d.openx.net": {
+    "hostname": "ookla-d.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "open.scdn.co": {
+    "hostname": "open.scdn.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "open.spotify.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "open.spotify.com": {
+    "hostname": "open.spotify.com",
+    "favicon": "https://open.scdn.co/static/images/favicon.png",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "open.scdn.co",
+      "vt.myvisualiq.net",
+      "i.scdn.co",
+      "cdn.ravenjs.com",
+      "glue-static.s3-external-3.amazonaws.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com"
+    ]
+  },
+  "optimized-by.rubiconproject.com": {
+    "hostname": "optimized-by.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.jwpcdn.com": {
+    "hostname": "p.jwpcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youronlinechoices.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.typekit.net": {
+    "hostname": "p.typekit.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-571117-i1-v6exp3.v4.metric.gstatic.com": {
+    "hostname": "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-571117-i1-v6exp3.v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-571117-i2-v6exp3.ds.metric.gstatic.com": {
+    "hostname": "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-571117-i2-v6exp3.ds.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-if-v6exp3-v4.metric.gstatic.com": {
+    "hostname": "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-if-v6exp3-v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-787186-i1-v6exp3.ds.metric.gstatic.com": {
+    "hostname": "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-787186-i1-v6exp3.ds.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-787186-i2-v6exp3.v4.metric.gstatic.com": {
+    "hostname": "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-787186-i2-v6exp3.v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-if-v6exp3-v4.metric.gstatic.com": {
+    "hostname": "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-if-v6exp3-v4.metric.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.google.com",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "perf.mmstat.com": {
+    "hostname": "perf.mmstat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "php.net": {
+    "hostname": "php.net",
+    "favicon": "http://php.net/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com"
+    ]
+  },
+  "pixel.adsafeprotected.com": {
+    "hostname": "pixel.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.advertising.com": {
+    "hostname": "pixel.advertising.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.wp.com": {
+    "hostname": "pixel.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it",
+      "fasobeddaslife.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.yabidos.com": {
+    "hostname": "pixel.yabidos.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "planner.uniud.it": {
+    "hostname": "planner.uniud.it",
+    "favicon": "https://planner.uniud.it/EasyRoom/Orario/assets/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "platform-api.sharethis.com": {
+    "hostname": "platform-api.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.linkedin.com": {
+    "hostname": "platform.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.linkedin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.tumblr.com": {
+    "hostname": "platform.tumblr.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.privacyitalia.eu",
+      "www.navicelladavorio.it",
+      "informationisbeautiful.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "portalparts.acm.org": {
+    "hostname": "portalparts.acm.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pre.glotgrx.com": {
+    "hostname": "pre.glotgrx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid.districtm.ca": {
+    "hostname": "prebid.districtm.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "profs.sci.univr.it": {
+    "hostname": "profs.sci.univr.it",
+    "favicon": "http://profs.sci.univr.it/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.it"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "propermedia-d.openx.net": {
+    "hostname": "propermedia-d.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubads.g.doubleclick.net": {
+    "hostname": "pubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "public.oneallcdn.com": {
+    "hostname": "public.oneallcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "push.prod.netflix.com": {
+    "hostname": "push.prod.netflix.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.moatads.com": {
+    "hostname": "px.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "q.stripe.com": {
+    "hostname": "q.stripe.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "disconnect.me"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.turn.com": {
+    "hostname": "r.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r1---sn-hpa7znsd.googlevideo.com": {
+    "hostname": "r1---sn-hpa7znsd.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r1---sn-hpa7znsl.googlevideo.com": {
+    "hostname": "r1---sn-hpa7znsl.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r18---sn-c0q7lnel.googlevideo.com": {
+    "hostname": "r18---sn-c0q7lnel.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r2---sn-hpa7zns6.googlevideo.com": {
+    "hostname": "r2---sn-hpa7zns6.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r2---sn-hpa7znsl.googlevideo.com": {
+    "hostname": "r2---sn-hpa7znsl.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r3---sn-hpa7zn7d.googlevideo.com": {
+    "hostname": "r3---sn-hpa7zn7d.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r3---sn-hpa7zns7.googlevideo.com": {
+    "hostname": "r3---sn-hpa7zns7.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r4---sn-4g5e6n7k.googlevideo.com": {
+    "hostname": "r4---sn-4g5e6n7k.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r4---sn-p5qlsnsy.googlevideo.com": {
+    "hostname": "r4---sn-p5qlsnsy.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r5---sn-hpa7znss.googlevideo.com": {
+    "hostname": "r5---sn-hpa7znss.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r6---sn-vgqsrn7s.googlevideo.com": {
+    "hostname": "r6---sn-vgqsrn7s.googlevideo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rai-italia01.wt-eu02.net": {
+    "hostname": "rai-italia01.wt-eu02.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "relay.userreport.com": {
+    "hostname": "relay.userreport.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ri.cwzpvo.com": {
+    "hostname": "ri.cwzpvo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "router.infolinks.com": {
+    "hostname": "router.infolinks.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rp.gwallet.com": {
+    "hostname": "rp.gwallet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rpt.cedexis.com": {
+    "hostname": "rpt.cedexis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rs.gwallet.com": {
+    "hostname": "rs.gwallet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtax.criteo.com": {
+    "hostname": "rtax.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb-csync.smartadserver.com": {
+    "hostname": "rtb-csync.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb0.doubleverify.com": {
+    "hostname": "rtb0.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ryanair.demdex.net": {
+    "hostname": "ryanair.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ryanair.tt.omtrdc.net": {
+    "hostname": "ryanair.tt.omtrdc.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.amazon-adsystem.com": {
+    "hostname": "s.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.btstatic.com": {
+    "hostname": "s.btstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.newsmaxfeednetwork.com": {
+    "hostname": "s.newsmaxfeednetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.pinimg.com": {
+    "hostname": "s.pinimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.thebrighttag.com": {
+    "hostname": "s.thebrighttag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.update.fbsbx.com": {
+    "hostname": "s.update.fbsbx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.facebook.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.cognomix.it",
+      "www.ryanair.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.wp.com": {
+    "hostname": "s0.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "fasobeddaslife.wordpress.com",
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.adform.net": {
+    "hostname": "s1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.wp.com": {
+    "hostname": "s1.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "fasobeddaslife.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s18.shinystat.com": {
+    "hostname": "s18.shinystat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s2.wp.com": {
+    "hostname": "s2.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "fasobeddaslife.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "disconnect.me",
+      "informationisbeautiful.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org",
+      "www.privacyitalia.eu",
+      "www.einaudi.it",
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.linkedin.com",
+      "open.spotify.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.voicefive.com": {
+    "hostname": "sb.voicefive.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scholar.google.it": {
+    "hostname": "scholar.google.it",
+    "favicon": "https://scholar.google.it/favicon-png.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "id.google.it",
+      "dl.acm.org",
+      "courses.cs.washington.edu"
+    ]
+  },
+  "scontent-mxp1-1.xx.fbcdn.net": {
+    "hostname": "scontent-mxp1-1.xx.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "www.goanalytics.info",
+      "www.facebook.com",
+      "www.navicelladavorio.it",
+      "it.pinterest.com",
+      "informationisbeautiful.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent.cdninstagram.com": {
+    "hostname": "scontent.cdninstagram.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cookiebot.com",
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sdk.accountkit.com": {
+    "hostname": "sdk.accountkit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "search.spotxchange.com": {
+    "hostname": "search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-ds.serving-sys.com": {
+    "hostname": "secure-ds.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-it.imrworldwide.com": {
+    "hostname": "secure-it.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "www.einaudi.it",
+      "www.treccani.it",
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-us.imrworldwide.com": {
+    "hostname": "secure-us.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.ryanair.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.comodo.com": {
+    "hostname": "secure.comodo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.gravatar.com": {
+    "hostname": "secure.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.google.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sem.juiceadv.com": {
+    "hostname": "sem.juiceadv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "service.karelia.com": {
+    "hostname": "service.karelia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.lucaproietti.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sgmt-api.ryanair.com": {
+    "hostname": "sgmt-api.ryanair.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sharethrough.adnxs.com": {
+    "hostname": "sharethrough.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sites.google.com": {
+    "hostname": "sites.google.com",
+    "favicon": "https://sites.google.com/a/chromium.org/dev/_/rsrc/1354323194313/favicon.ico",
+    "firstPartyHostnames": [
+      "webcookies.org"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ssl.gstatic.com",
+      "www.google-analytics.com",
+      "apis.google.com",
+      "www.gstatic.com",
+      "ssl.google-analytics.com"
+    ]
+  },
+  "smartlock.google.com": {
+    "hostname": "smartlock.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "smetrics.ryanair.com": {
+    "hostname": "smetrics.ryanair.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp-bootstrap.global.ssl.fastly.net": {
+    "hostname": "sp-bootstrap.global.ssl.fastly.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1.adalnetwork.com": {
+    "hostname": "sp1.adalnetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sp1.asdasd.it": {
+    "hostname": "sp1.asdasd.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speed1.consultarea.it": {
+    "hostname": "speed1.consultarea.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtest.4isp.it": {
+    "hostname": "speedtest.4isp.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtest.ascotlc.it": {
+    "hostname": "speedtest.ascotlc.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtest.logostech.it": {
+    "hostname": "speedtest.logostech.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtest.t-2.net": {
+    "hostname": "speedtest.t-2.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtest.telemach.net": {
+    "hostname": "speedtest.telemach.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtest1.springo.it": {
+    "hostname": "speedtest1.springo.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtestts1.telecomitalia.it": {
+    "hostname": "speedtestts1.telecomitalia.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtestud1.telecomitalia.it": {
+    "hostname": "speedtestud1.telecomitalia.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "speedtestve1.telecomitalia.it": {
+    "hostname": "speedtestve1.telecomitalia.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssa.shinystat.com": {
+    "hostname": "ssa.shinystat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "sites.google.com",
+      "www.uniud.it",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.gstatic.com": {
+    "hostname": "ssl.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "docs.google.com",
+      "www.google.com",
+      "webcookies.org",
+      "sites.google.com",
+      "www.goanalytics.info",
+      "accounts.google.com",
+      "www.abovetopsecret.com",
+      "www.einaudi.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "translate.google.it",
+      "www.google.it",
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sslwidget.criteo.com": {
+    "hostname": "sslwidget.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssum.casalemedia.com": {
+    "hostname": "ssum.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-tagr.gd1.mookie1.com": {
+    "hostname": "static-tagr.gd1.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.addtoany.com": {
+    "hostname": "static.addtoany.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adsafeprotected.com": {
+    "hostname": "static.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adziff.com": {
+    "hostname": "static.adziff.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "www.youtube.com",
+      "www.cognomix.it",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cookiebot.com",
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.licdn.com": {
+    "hostname": "static.licdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.linkedin.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.parastorage.com": {
+    "hostname": "static.parastorage.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dataviz.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.polldaddy.com": {
+    "hostname": "static.polldaddy.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.queit.in": {
+    "hostname": "static.queit.in",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.viralize.tv": {
+    "hostname": "static.viralize.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.wixstatic.com": {
+    "hostname": "static.wixstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dataviz.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.xx.fbcdn.net": {
+    "hostname": "static.xx.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.facebook.com",
+      "www.navicelladavorio.it",
+      "it.pinterest.com",
+      "informationisbeautiful.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ziffdavis.com": {
+    "hostname": "static.ziffdavis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.facebook.com",
+      "www.navicelladavorio.it",
+      "www.netflix.com",
+      "it.pinterest.com",
+      "informationisbeautiful.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.smartclip.net": {
+    "hostname": "stats.smartclip.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.wp.com": {
+    "hostname": "stats.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "fasobeddaslife.wordpress.com",
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "su.addthis.com": {
+    "hostname": "su.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu",
+      "www.informationisbeautifulawards.com",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.crwdcntrl.net": {
+    "hostname": "sync.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.search.spotxchange.com": {
+    "hostname": "sync.search.spotxchange.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.teads.tv": {
+    "hostname": "sync.teads.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.privacyitalia.eu",
+      "www.navicelladavorio.it",
+      "informationisbeautiful.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.newsmaxfeednetwork.com": {
+    "hostname": "t.newsmaxfeednetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.userreport.com": {
+    "hostname": "tag.userreport.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bkrtx.com": {
+    "hostname": "tags.bkrtx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bluekai.com": {
+    "hostname": "tags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu",
+      "www.cognomix.it",
+      "www.informationisbeautifulawards.com",
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.crwdcntrl.net": {
+    "hostname": "tags.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tapestry.tapad.com": {
+    "hostname": "tapestry.tapad.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "test.kukilink.it": {
+    "hostname": "test.kukilink.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "thesaurus.garanteprivacy.it": {
+    "hostname": "thesaurus.garanteprivacy.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.garanteprivacy.it",
+      "garanteprivacy.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tms.api.seedtag.com": {
+    "hostname": "tms.api.seedtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tms.triboomedia.it": {
+    "hostname": "tms.triboomedia.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ton.twimg.com": {
+    "hostname": "ton.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "toolbar.complex.com": {
+    "hostname": "toolbar.complex.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tools.google.com": {
+    "hostname": "tools.google.com",
+    "favicon": "https://tools.google.com/dlpage/gaoptout?hl=it",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "fonts.googleapis.com"
+    ]
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "it.wikipedia.org",
+      "www.goanalytics.info",
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tps20205.doubleverify.com": {
+    "hostname": "tps20205.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it",
+      "www.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tps20211.doubleverify.com": {
+    "hostname": "tps20211.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tps20509.doubleverify.com": {
+    "hostname": "tps20509.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tps30.doubleverify.com": {
+    "hostname": "tps30.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.treccani.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tps40.doubleverify.com": {
+    "hostname": "tps40.doubleverify.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.google.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.navicelladavorio.it",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.google.com": {
+    "hostname": "translate.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.google.it": {
+    "hostname": "translate.google.it",
+    "favicon": "https://translate.google.it/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "id.google.it",
+      "apis.google.com",
+      "clients1.google.com",
+      "csi.gstatic.com"
+    ]
+  },
+  "translate.googleapis.com": {
+    "hostname": "translate.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trc.taboola.com": {
+    "hostname": "trc.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "uip.semasio.net": {
+    "hostname": "uip.semasio.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "upload.wikimedia.org": {
+    "hostname": "upload.wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.wikipedia.org",
+      "en.wikipedia.org",
+      "www.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "upscri.be": {
+    "hostname": "upscri.be",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "medium.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it",
+      "www.speedtest.net",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us.cobra.aliexpress.com": {
+    "hostname": "us.cobra.aliexpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us.ynuf.alipay.com": {
+    "hostname": "us.ynuf.alipay.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "use.typekit.net": {
+    "hostname": "use.typekit.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.informationisbeautifulawards.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cookiebot.com",
+      "www.ryanair.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vcdn.adnxs.com": {
+    "hostname": "vcdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "videocdn.triboomedia.it": {
+    "hostname": "videocdn.triboomedia.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vimeo.com": {
+    "hostname": "vimeo.com",
+    "favicon": "https://f.vimeocdn.com/images_v6/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "pagead2.googlesyndication.com",
+      "googleads.g.doubleclick.net",
+      "i1.wp.com",
+      "app.link",
+      "api.branch.io",
+      "www.googletagservices.com",
+      "adservice.google.it",
+      "www.googletagmanager.com",
+      "adservice.google.com",
+      "securepubads.g.doubleclick.net",
+      "bat.bing.com",
+      "www.google-analytics.com",
+      "www.googleadservices.com",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "s0.2mdn.net",
+      "www.google.it",
+      "code.createjs.com",
+      "googleads4.g.doubleclick.net",
+      "track.adform.net",
+      "cm.g.doubleclick.net",
+      "us-u.openx.net",
+      "bid.g.doubleclick.net"
+    ]
+  },
+  "visitanalytics.userreport.com": {
+    "hostname": "visitanalytics.userreport.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "datavizproject.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vt.myvisualiq.net": {
+    "hostname": "vt.myvisualiq.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "open.spotify.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "w.sharethis.com": {
+    "hostname": "w.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "w.usabilla.com": {
+    "hostname": "w.usabilla.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "dl.acm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "webcookies.org": {
+    "hostname": "webcookies.org",
+    "favicon": "https://webcookiesp-20c4.kxcdn.com/static/favicon.ico",
+    "firstPartyHostnames": [
+      "it.wikipedia.org"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "apis.google.com",
+      "maxcdn.bootstrapcdn.com",
+      "cdnjs.cloudflare.com",
+      "platform.linkedin.com",
+      "webcookiesp-20c4.kxcdn.com",
+      "code.jquery.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "www.googletagmanager.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "pagead2.googlesyndication.com",
+      "platform.twitter.com",
+      "connect.facebook.net",
+      "static.licdn.com",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.it",
+      "www.google-analytics.com",
+      "syndication.twitter.com",
+      "www.facebook.com",
+      "staticxx.facebook.com",
+      "tpc.googlesyndication.com",
+      "cm.g.doubleclick.net",
+      "csi.gstatic.com",
+      "www.google.com",
+      "cms.quantserve.com",
+      "s0.2mdn.net",
+      "googleads4.g.doubleclick.net",
+      "track.adform.net",
+      "code.createjs.com",
+      "ade.googlesyndication.com",
+      "sites.google.com"
+    ]
+  },
+  "webcookiesp-20c4.kxcdn.com": {
+    "hostname": "webcookiesp-20c4.kxcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.pinterest.com": {
+    "hostname": "widgets.pinterest.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.navicelladavorio.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wikimedia.org": {
+    "hostname": "wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.abovetopsecret.com": {
+    "hostname": "www.abovetopsecret.com",
+    "favicon": "http://www.abovetopsecret.com/favicon.png",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "global.proper.io",
+      "ajax.googleapis.com",
+      "optimized-by.rubiconproject.com",
+      "ib.adnxs.com",
+      "files.abovetopsecret.com",
+      "abovetopsecret.api.oneall.com",
+      "cdn.nmcdn.us",
+      "public.oneallcdn.com",
+      "s.newsmaxfeednetwork.com",
+      "b.scorecardresearch.com",
+      "www.google-analytics.com",
+      "api-cache.adsnative.com",
+      "www.googletagservices.com",
+      "bid.pubmatic.com",
+      "propermedia-d.openx.net",
+      "adserver.adtechus.com",
+      "adservice.google.com",
+      "adservice.google.it",
+      "api.adsnative.com",
+      "securepubads.g.doubleclick.net",
+      "t.newsmaxfeednetwork.com",
+      "ri.cwzpvo.com",
+      "tpc.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "bids.proper.io",
+      "cm.g.doubleclick.net",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "hal9000.redintelligence.net",
+      "cse.google.com",
+      "www.googleapis.com",
+      "clients1.google.com",
+      "csi.gstatic.com",
+      "ssl.gstatic.com",
+      "encrypted-tbn1.gstatic.com",
+      "encrypted-tbn0.gstatic.com",
+      "encrypted-tbn2.gstatic.com",
+      "encrypted-tbn3.gstatic.com"
+    ]
+  },
+  "www.cognomix.it": {
+    "hostname": "www.cognomix.it",
+    "favicon": "http://cdn.nomix.eu/icon/favicon-32x32.png",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "secure-it.imrworldwide.com",
+      "apis.google.com",
+      "cdn.nomix.eu",
+      "tms.triboomedia.it",
+      "fonts.googleapis.com",
+      "ads.viralize.tv",
+      "fonts.gstatic.com",
+      "native.sharethrough.com",
+      "static.addtoany.com",
+      "code.jquery.com",
+      "imasdk.googleapis.com",
+      "pixel.yabidos.com",
+      "cdn-gl.imrworldwide.com",
+      "cdn.ravenjs.com",
+      "cdn.polyfill.io",
+      "accounts.google.com",
+      "lh3.googleusercontent.com",
+      "www.google-analytics.com",
+      "ssl.gstatic.com",
+      "static.polldaddy.com",
+      "pagead2.googlesyndication.com",
+      "pre.glotgrx.com",
+      "www.google.com",
+      "config.seedtag.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.com",
+      "js.agkn.com",
+      "sem.juiceadv.com",
+      "adservice.google.it",
+      "ad.360yield.com",
+      "creative.360yield.com",
+      "www.leonardo.it",
+      "d.agkn.com",
+      "acdn.adnxs.com",
+      "codicebusiness.shinystat.com",
+      "rtax.criteo.com",
+      "cse.google.com",
+      "www.googleapis.com",
+      "www.googletagservices.com",
+      "advm.brznetwork.com",
+      "static.viralize.tv",
+      "s18.shinystat.com",
+      "tpc.googlesyndication.com",
+      "advs.brznetwork.com",
+      "static.criteo.net",
+      "cdn.doubleverify.com",
+      "securepubads.g.doubleclick.net",
+      "ssa.shinystat.com",
+      "clients1.google.com",
+      "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-if-v6exp3-v4.metric.gstatic.com",
+      "cdn3.doubleverify.com",
+      "tms.api.seedtag.com",
+      "cm.g.doubleclick.net",
+      "ads.rubiconproject.com",
+      "rtb0.doubleverify.com",
+      "csync.smartadserver.com",
+      "fw.adsafeprotected.com",
+      "ec-ns.sascdn.com",
+      "track.adform.net",
+      "optimized-by.rubiconproject.com",
+      "ads.pubmatic.com",
+      "cookie-matching.mediarithmics.com",
+      "ad.turn.com",
+      "s1.adform.net",
+      "ssum.casalemedia.com",
+      "secure.adnxs.com",
+      "aa.agkn.com",
+      "dsp.v.fwmrm.net",
+      "pr-bh.ybp.yahoo.com",
+      "image6.pubmatic.com",
+      "edge.quantserve.com",
+      "rs.gwallet.com",
+      "rtb-csync.smartadserver.com",
+      "d5p.de17a.com",
+      "tags.bluekai.com",
+      "c1.adform.net",
+      "ads.yahoo.com",
+      "dpm.demdex.net",
+      "search.spotxchange.com",
+      "dsum.casalemedia.com",
+      "pixel.rubiconproject.com",
+      "ib.adnxs.com",
+      "sync.search.spotxchange.com",
+      "pixel.advertising.com",
+      "csm2waycm-atl.netmng.com",
+      "us-u.openx.net",
+      "sync.teads.tv",
+      "fei.pro-market.net",
+      "ad.yieldlab.net",
+      "ih.adscale.de",
+      "amobee-partners.tremorhub.com",
+      "beacon.krxd.net",
+      "s0.2mdn.net",
+      "tps20509.doubleverify.com",
+      "ce.lijit.com",
+      "www8.smartadserver.com",
+      "e.api.seedtag.com",
+      "beacon-eu-ams3.rubiconproject.com",
+      "eus.rubiconproject.com",
+      "gum.criteo.com",
+      "pixel.adsafeprotected.com",
+      "tps40.doubleverify.com",
+      "ad.doubleclick.net",
+      "static.adsafeprotected.com",
+      "creatives.sascdn.com",
+      "adcastapi.juiceadv.com",
+      "image4.pubmatic.com",
+      "googleads4.g.doubleclick.net",
+      "static-tagr.gd1.mookie1.com",
+      "videocdn.triboomedia.it",
+      "dt.adsafeprotected.com",
+      "code.createjs.com",
+      "adx.adform.net",
+      "eu-gmtdmp.gd1.mookie1.com",
+      "pubads.g.doubleclick.net",
+      "des.smartclip.net",
+      "tps20211.doubleverify.com",
+      "match.adsrvr.org",
+      "ads.stickyadstv.com",
+      "www.youtube.com",
+      "sharethrough.adnxs.com",
+      "csi.gstatic.com",
+      "s.ytimg.com",
+      "ade.googlesyndication.com",
+      "static.doubleclick.net",
+      "cdn.smartclip.net",
+      "stats.smartclip.net",
+      "dockhand.netflix.com",
+      "uip.semasio.net",
+      "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-787186-i2-v6exp3.v4.metric.gstatic.com",
+      "p4-gld7bgp55mi6m-jmvxg7ccetaq4xwe-787186-i1-v6exp3.ds.metric.gstatic.com",
+      "sb.scorecardresearch.com"
+    ]
+  },
+  "www.cookiebot.com": {
+    "hostname": "www.cookiebot.com",
+    "favicon": "https://www.cookiebot.com/img/favicon.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "ajax.googleapis.com",
+      "www.googletagmanager.com",
+      "consent.cookiebot.com",
+      "www.google-analytics.com",
+      "static.hotjar.com",
+      "vars.hotjar.com",
+      "script.hotjar.com"
+    ]
+  },
+  "www.dataviz.com": {
+    "hostname": "www.dataviz.com",
+    "favicon": "https://static.parastorage.com/client/pfavico.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "static.parastorage.com",
+      "frog.wix.com",
+      "static.wixstatic.com",
+      "fonts.googleapis.com",
+      "js-agent.newrelic.com",
+      "bam.nr-data.net",
+      "adsense.codev.wixapps.net"
+    ]
+  },
+  "www.einaudi.it": {
+    "hostname": "www.einaudi.it",
+    "favicon": "http://www.einaudi.it/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "apis.google.com",
+      "s7.addthis.com",
+      "digital.mondadori.it",
+      "secure-it.imrworldwide.com",
+      "www.google-analytics.com",
+      "cdn-gl.imrworldwide.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "m.addthisedge.com",
+      "m.addthis.com",
+      "cdn.iubenda.com",
+      "hits-i.iubenda.com"
+    ]
+  },
+  "www.europarl.europa.eu": {
+    "hostname": "www.europarl.europa.eu",
+    "favicon": "http://www.europarl.europa.eu/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "webcookies.org",
+      "www.goanalytics.info",
+      "www.navicelladavorio.it",
+      "www.netflix.com",
+      "it.aliexpress.com",
+      "it.pinterest.com",
+      "informationisbeautiful.net",
+      "www.informationisbeautifulawards.com",
+      "www.ryanair.com",
+      "www.speedtest.net",
+      "www.whosampled.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fasobeddaslife.files.wordpress.com",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "staticxx.facebook.com",
+      "cx.atdmt.com",
+      "static.xx.fbcdn.net",
+      "s.update.fbsbx.com"
+    ]
+  },
+  "www.feed.rai.it": {
+    "hostname": "www.feed.rai.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.garanteprivacy.it": {
+    "hostname": "www.garanteprivacy.it",
+    "favicon": "http://www.garanteprivacy.it/Garante-Home-theme/images/icons/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "f1.eu.readspeaker.com",
+      "thesaurus.garanteprivacy.it",
+      "194.242.234.211"
+    ]
+  },
+  "www.goanalytics.info": {
+    "hostname": "www.goanalytics.info",
+    "favicon": "http://www.goanalytics.info/wp-content/themes/tambugawp/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "apis.google.com",
+      "platform.linkedin.com",
+      "platform.twitter.com",
+      "0.gravatar.com",
+      "csi.gstatic.com",
+      "1.gravatar.com",
+      "connect.facebook.net",
+      "staticxx.facebook.com",
+      "www.google-analytics.com",
+      "pagead2.googlesyndication.com",
+      "accounts.google.com",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "ssl.gstatic.com",
+      "fonts.gstatic.com",
+      "adservice.google.it",
+      "www.facebook.com",
+      "lh6.googleusercontent.com",
+      "lh3.googleusercontent.com",
+      "syndication.twitter.com",
+      "cdn.syndication.twimg.com",
+      "static.licdn.com",
+      "stats.g.doubleclick.net",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "cm.g.doubleclick.net",
+      "googleads4.g.doubleclick.net",
+      "s0.2mdn.net",
+      "track.adform.net",
+      "2.gravatar.com",
+      "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-if-v6exp3-v4.metric.gstatic.com",
+      "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-571117-i2-v6exp3.ds.metric.gstatic.com",
+      "p4-blepp5lu7knc2-4v3rw7vmccbzzy5k-571117-i1-v6exp3.v4.metric.gstatic.com",
+      "2.bp.blogspot.com",
+      "www.youtube.com",
+      "static.doubleclick.net",
+      "i.ytimg.com"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "sites.google.com",
+      "www.europarl.europa.eu",
+      "www.goanalytics.info",
+      "www.cookiebot.com",
+      "dl.acm.org",
+      "www.abovetopsecret.com",
+      "www.privacyitalia.eu",
+      "www.einaudi.it",
+      "www.treccani.it",
+      "it.sharelatex.com",
+      "www.mozilla.org",
+      "hacktips.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "translate.google.it",
+      "it.aliexpress.com",
+      "medium.com",
+      "open.spotify.com",
+      "informationisbeautiful.net",
+      "www.informationisbeautifulawards.com",
+      "www.speedtest.net",
+      "datavizproject.com",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "https://www.google.com/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": [
+      "webcookies.org",
+      "tools.google.com",
+      "www.goanalytics.info",
+      "dl.acm.org",
+      "www.abovetopsecret.com",
+      "www.youtube.com",
+      "www.treccani.it",
+      "it.sharelatex.com",
+      "www.cognomix.it",
+      "www.linkedin.com",
+      "www.navicelladavorio.it",
+      "www.google.it",
+      "it.pinterest.com",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.it",
+      "it.wikipedia.org",
+      "apis.google.com",
+      "ssl.gstatic.com",
+      "adservice.google.com",
+      "www.goanalytics.info",
+      "scholar.google.it",
+      "www.gstatic.com",
+      "en.wikipedia.org",
+      "www.abovetopsecret.com",
+      "www.privacyitalia.eu",
+      "www.einaudi.it",
+      "www.youtube.com",
+      "www.treccani.it",
+      "fonts.googleapis.com",
+      "adservice.google.it",
+      "securepubads.g.doubleclick.net",
+      "track.adform.net",
+      "ade.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "tps20205.doubleverify.com",
+      "it.sharelatex.com",
+      "hacktips.it",
+      "www.cognomix.it",
+      "it.linkedin.com",
+      "www.lucaproietti.it",
+      "data16.adlooxtracking.com",
+      "encrypted-tbn0.gstatic.com",
+      "upload.wikimedia.org",
+      "it.aliexpress.com",
+      "medium.com",
+      "open.spotify.com",
+      "www.dataviz.com",
+      "frog.wix.com",
+      "www.whosampled.com"
+    ]
+  },
+  "www.google.it": {
+    "hostname": "www.google.it",
+    "favicon": "https://www.google.it/images/branding/product/ico/googleg_lodp.ico",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "www.youtube.com",
+      "it.pinterest.com",
+      "vimeo.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ssl.gstatic.com",
+      "www.google.com",
+      "www.gstatic.com",
+      "apis.google.com",
+      "adservice.google.it",
+      "it.pinterest.com",
+      "id.google.it",
+      "www.uniud.it",
+      "profs.sci.univr.it",
+      "informationisbeautiful.net"
+    ]
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.netflix.com",
+      "it.pinterest.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleapis.com": {
+    "hostname": "www.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.cognomix.it",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it",
+      "webcookies.org",
+      "www.cookiebot.com",
+      "dl.acm.org",
+      "www.treccani.it",
+      "www.mozilla.org",
+      "it.pinterest.com",
+      "www.speedtest.net",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.abovetopsecret.com",
+      "www.treccani.it",
+      "www.cognomix.it",
+      "www.youtube.com",
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "vimeo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "docs.google.com",
+      "www.google.com",
+      "sites.google.com",
+      "dl.acm.org",
+      "www.youtube.com",
+      "it.sharelatex.com",
+      "translate.google.it",
+      "www.google.it",
+      "it.pinterest.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.guillermito2.net": {
+    "hostname": "www.guillermito2.net",
+    "favicon": "http://www.guillermito2.net/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.informationisbeautifulawards.com": {
+    "hostname": "www.informationisbeautifulawards.com",
+    "favicon": "https://www.informationisbeautifulawards.com/favicon.ico",
+    "firstPartyHostnames": [
+      "informationisbeautiful.net"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "s7.addthis.com",
+      "iibawards-prod.s3.amazonaws.com",
+      "static.ads-twitter.com",
+      "use.typekit.net",
+      "p.typekit.net",
+      "t.co",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "m.addthis.com",
+      "m.addthisedge.com",
+      "tags.bluekai.com",
+      "www.facebook.com",
+      "su.addthis.com",
+      "analytics.twitter.com"
+    ]
+  },
+  "www.iubenda.com": {
+    "hostname": "www.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.leonardo.it": {
+    "hostname": "www.leonardo.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.linkedin.com": {
+    "hostname": "www.linkedin.com",
+    "favicon": "https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+    "firstPartyHostnames": [
+      "it.linkedin.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "static.licdn.com",
+      "platform.linkedin.com",
+      "sb.scorecardresearch.com",
+      "i2-xoaaiqupfkwfvyqranqgehpjdcpykd.init.cedexis-radar.net",
+      "www.google.com"
+    ]
+  },
+  "www.lucaproietti.it": {
+    "hostname": "www.lucaproietti.it",
+    "favicon": "http://www.lucaproietti.it/_Media/32favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "service.karelia.com"
+    ]
+  },
+  "www.mozilla.org": {
+    "hostname": "www.mozilla.org",
+    "favicon": "https://www.mozilla.org/media/img/firefox/favicon.e6bb0e59df3d.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "accounts-static.cdn.mozilla.net"
+    ]
+  },
+  "www.navicelladavorio.it": {
+    "hostname": "www.navicelladavorio.it",
+    "favicon": "https://www.navicelladavorio.it/wp-content/uploads/2016/11/favicon.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "maxcdn.bootstrapcdn.com",
+      "s0.wp.com",
+      "stats.wp.com",
+      "fonts.googleapis.com",
+      "secure.gravatar.com",
+      "assets.pinterest.com",
+      "platform.tumblr.com",
+      "apis.google.com",
+      "fonts.gstatic.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "widgets.pinterest.com",
+      "api.instagram.com",
+      "scontent.cdninstagram.com",
+      "connect.facebook.net",
+      "platform.twitter.com",
+      "pagead2.googlesyndication.com",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.it",
+      "log.pinterest.com",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "syndication.twitter.com",
+      "www.google.com",
+      "static.xx.fbcdn.net",
+      "tpc.googlesyndication.com",
+      "ad.doubleclick.net",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "j.adlooxtracking.com",
+      "pixel.wp.com",
+      "s0.2mdn.net",
+      "googleads4.g.doubleclick.net",
+      "data16.adlooxtracking.com",
+      "cm.g.doubleclick.net",
+      "track.adform.net",
+      "code.createjs.com",
+      "ade.googlesyndication.com"
+    ]
+  },
+  "www.netflix.com": {
+    "hostname": "www.netflix.com",
+    "favicon": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.nflxext.com",
+      "codex.nflxext.com",
+      "ethn.io",
+      "connect.facebook.net",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "push.prod.netflix.com",
+      "adtech.nflximg.net",
+      "s.thebrighttag.com",
+      "s.btstatic.com",
+      "occ-0-401-399.1.nflxso.net",
+      "4954221.fls.doubleclick.net",
+      "www.googleadservices.com",
+      "googleads.g.doubleclick.net",
+      "4967238.fls.doubleclick.net",
+      "crossroads.eu-west-1.prodaa.netflix.com",
+      "crossroads.us-west-2.prodaa.netflix.com",
+      "crossroads.prefix.netflix.com",
+      "crossroads.geo.netflix.com",
+      "crossroads.latency.prodaa.netflix.com",
+      "crossroads.us-east-1.prodaa.netflix.com",
+      "ipv4-c038-fra001-ix.1.oca.nflxvideo.net",
+      "ipv4-c060-fra001-ix.1.oca.nflxvideo.net",
+      "ipv4-c049-fra001-ix.1.oca.nflxvideo.net",
+      "ipv4-c083-fra001-ix.1.oca.nflxvideo.net",
+      "ipv4-c035-fra001-ix.1.oca.nflxvideo.net",
+      "ipv4-c073-fra001-ix.1.oca.nflxvideo.net"
+    ]
+  },
+  "www.privacyitalia.eu": {
+    "hostname": "www.privacyitalia.eu",
+    "favicon": "https://www.privacyitalia.eu/wp-content/uploads/2017/01/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "maps.googleapis.com",
+      "secure.comodo.com",
+      "www.google-analytics.com",
+      "s7.addthis.com",
+      "platform.twitter.com",
+      "www.tickcounter.com",
+      "ajax.googleapis.com",
+      "cdnjs.cloudflare.com",
+      "cdn.syndication.twimg.com",
+      "syndication.twitter.com",
+      "ton.twimg.com",
+      "pbs.twimg.com",
+      "graph.facebook.com",
+      "api-public.addthis.com",
+      "m.addthis.com",
+      "tags.bluekai.com",
+      "su.addthis.com",
+      "m.addthisedge.com"
+    ]
+  },
+  "www.rai.it": {
+    "hostname": "www.rai.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.rai.tv": {
+    "hostname": "www.rai.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.report.rai.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.report.rai.it": {
+    "hostname": "www.report.rai.it",
+    "favicon": "http://www.report.rai.it/dl/RaiTre/images/favicon.gif",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.iubenda.com",
+      "secure-it.imrworldwide.com",
+      "www.rai.it",
+      "www.feed.rai.it",
+      "www.rai.tv",
+      "rai-italia01.wt-eu02.net",
+      "www.facebook.com",
+      "cdn-gl.imrworldwide.com",
+      "www.googletagmanager.com",
+      "w.sharethis.com",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "mediapolisvod.rai.it",
+      "ad49.neodatagroup.com",
+      "b2ushds2-vh.akamaihd.net",
+      "ad-aws-it.neodatagroup.com",
+      "www.iubenda.com",
+      "b.scorecardresearch.com",
+      "hits-i.iubenda.com",
+      "edge.sharethis.com",
+      "l.sharethis.com",
+      "ad2.neodatagroup.com",
+      "ad-aws.neodatagroup.com"
+    ]
+  },
+  "www.ryanair.com": {
+    "hostname": "www.ryanair.com",
+    "favicon": "https://www.ryanair.com/etc/designs/ryanair/favicon/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdnjs.cloudflare.com",
+      "cdn.jsdelivr.net",
+      "cdn.polyfill.io",
+      "assets.adobedtm.com",
+      "ajax.googleapis.com",
+      "s.ytimg.com",
+      "dpm.demdex.net",
+      "fonts.googleapis.com",
+      "static.queit.in",
+      "api.ryanair.com",
+      "desktopapps.ryanair.com",
+      "fonts.gstatic.com",
+      "ryanair.demdex.net",
+      "ryanair.tt.omtrdc.net",
+      "static.hotjar.com",
+      "script.hotjar.com",
+      "js-agent.newrelic.com",
+      "bam.nr-data.net",
+      "smetrics.ryanair.com",
+      "www.facebook.com",
+      "pixel.quantserve.com",
+      "vars.hotjar.com",
+      "default.queit.in",
+      "secure.adnxs.com",
+      "sgmt-api.ryanair.com",
+      "adfarm.mediaplex.com"
+    ]
+  },
+  "www.speedtest.net": {
+    "hostname": "www.speedtest.net",
+    "favicon": "http://www.speedtest.net/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "static.criteo.net",
+      "b.cdnst.net",
+      "c.evidon.com",
+      "www.googletagservices.com",
+      "adservice.google.com",
+      "adservice.google.it",
+      "www.googletagmanager.com",
+      "securepubads.g.doubleclick.net",
+      "cdn.static.zdbb.net",
+      "l.betrad.com",
+      "a.zdbb.net",
+      "b.scorecardresearch.com",
+      "tags.bkrtx.com",
+      "connect.facebook.net",
+      "secure-us.imrworldwide.com",
+      "static.adziff.com",
+      "gurgle.zdbb.net",
+      "tags.bluekai.com",
+      "google-analytics.com",
+      "www.facebook.com",
+      "c.speedtest.net",
+      "www.google-analytics.com",
+      "fastlane.rubiconproject.com",
+      "prebid.districtm.ca",
+      "apex.go.sonobi.com",
+      "stats.g.doubleclick.net",
+      "speedtest1.springo.it",
+      "speedtest.ascotlc.it",
+      "speedtestve1.telecomitalia.it",
+      "sp1.asdasd.it",
+      "cdn.districtm.io",
+      "speed1.consultarea.it",
+      "ib.adnxs.com",
+      "speedtest.logostech.it",
+      "sp1.adalnetwork.com",
+      "x.bidswitch.net",
+      "speedtestud1.telecomitalia.it",
+      "speedtestts1.telecomitalia.it",
+      "test.kukilink.it",
+      "tpc.googlesyndication.com",
+      "ookla-d.openx.net",
+      "as.casalemedia.com",
+      "static.ziffdavis.com",
+      "z.moatads.com",
+      "pagead2.googlesyndication.com",
+      "pixel.adsafeprotected.com",
+      "googleads.g.doubleclick.net",
+      "a.rfihub.com",
+      "acdn.adnxs.com",
+      "bs.serving-sys.com",
+      "dmx.districtm.io",
+      "eu-u.openx.net",
+      "www.google.com",
+      "delivery-europe-west-1.openx.net",
+      "s0.2mdn.net",
+      "r.turn.com",
+      "secure-ds.serving-sys.com",
+      "px.moatads.com",
+      "geo.moatads.com",
+      "ad.doubleclick.net",
+      "beacon.walmart.com",
+      "googleads4.g.doubleclick.net",
+      "track.adform.net",
+      "router.infolinks.com",
+      "match.adsrvr.org",
+      "code.createjs.com",
+      "cm.g.doubleclick.net",
+      "pr-bh.ybp.yahoo.com",
+      "ziffdavis697674298673.moatads.com",
+      "cs.gssprt.jp",
+      "dt.adsafeprotected.com",
+      "sb.voicefive.com",
+      "c1.rfihub.net",
+      "zdbb.net",
+      "eus.rubiconproject.com",
+      "us-u.openx.net",
+      "image2.pubmatic.com",
+      "dsum.casalemedia.com",
+      "trc.taboola.com",
+      "ckm-m.xp1.ru4.com",
+      "a.scorecardresearch.com",
+      "sync.search.spotxchange.com",
+      "c2.rfihub.net",
+      "pixel.rubiconproject.com",
+      "tapestry.tapad.com",
+      "fra-30.fra-rtb1.rfihub.com",
+      "beacon-eu-ams3.rubiconproject.com",
+      "c1.adform.net",
+      "ade.googlesyndication.com",
+      "fra1-ib.adnxs.com",
+      "static.adsafeprotected.com",
+      "cdn.adnxs.com",
+      "bid.contextweb.com",
+      "adserver-us.adtech.advertising.com",
+      "rp.gwallet.com",
+      "idpix.media6degrees.com",
+      "fonts.googleapis.com",
+      "2542116.fls.doubleclick.net",
+      "speedtest.4isp.it",
+      "speedtest.telemach.net",
+      "speedtest.t-2.net"
+    ]
+  },
+  "www.tickcounter.com": {
+    "hostname": "www.tickcounter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.privacyitalia.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.treccani.it": {
+    "hostname": "www.treccani.it",
+    "favicon": "http://www.treccani.it/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "secure-it.imrworldwide.com",
+      "fonts.googleapis.com",
+      "advhd.banzaiadv.it",
+      "fonts.gstatic.com",
+      "cdn-gl.imrworldwide.com",
+      "www.google-analytics.com",
+      "b.scorecardresearch.com",
+      "www.googletagservices.com",
+      "www.googletagmanager.com",
+      "adservice.google.it",
+      "adservice.google.com",
+      "track.adform.net",
+      "securepubads.g.doubleclick.net",
+      "tpc.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "googleads.g.doubleclick.net",
+      "s0.2mdn.net",
+      "cm.g.doubleclick.net",
+      "googleads4.g.doubleclick.net",
+      "cdn.doubleverify.com",
+      "tps30.doubleverify.com",
+      "cdn3.doubleverify.com",
+      "ade.googlesyndication.com",
+      "tps20205.doubleverify.com",
+      "www.google.com",
+      "pixel.adsafeprotected.com",
+      "it-gmtdmp.mookie1.com",
+      "animate.adobe.com",
+      "beacon.krxd.net",
+      "static.adsafeprotected.com",
+      "dt.adsafeprotected.com"
+    ]
+  },
+  "www.uniud.it": {
+    "hostname": "www.uniud.it",
+    "favicon": "https://www.uniud.it/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.it"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ssl.google-analytics.com"
+    ]
+  },
+  "www.whosampled.com": {
+    "hostname": "www.whosampled.com",
+    "favicon": "https://www.whosampled.com/static/images/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "media.complex.com",
+      "www.googletagservices.com",
+      "securepubads.g.doubleclick.net",
+      "js-sec.indexww.com",
+      "adservice.google.it",
+      "fonts.gstatic.com",
+      "toolbar.complex.com",
+      "www.google-analytics.com",
+      "tags.crwdcntrl.net",
+      "connect.facebook.net",
+      "platform.twitter.com",
+      "sb.scorecardresearch.com",
+      "c.amazon-adsystem.com",
+      "ad.crwdcntrl.net",
+      "ssl.google-analytics.com",
+      "aax.amazon-adsystem.com",
+      "cdn.syndication.twimg.com",
+      "syndication.twitter.com",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "as-sec.casalemedia.com",
+      "bcp.crwdcntrl.net",
+      "tpc.googlesyndication.com",
+      "idsync.rlcdn.com",
+      "z.moatads.com",
+      "pagead2.googlesyndication.com",
+      "static.xx.fbcdn.net",
+      "scontent-mxp1-1.xx.fbcdn.net",
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "cdnjs.cloudflare.com",
+      "pbs.twimg.com",
+      "aax-eu.amazon-adsystem.com",
+      "s0.2mdn.net",
+      "googleads4.g.doubleclick.net",
+      "bh.contextweb.com",
+      "track.adform.net",
+      "s.amazon-adsystem.com",
+      "magnetic.t.domdex.com",
+      "d20flqux56m8w7.cloudfront.net",
+      "www.youtube.com",
+      "i.ytimg.com",
+      "z2jakqoshx.com",
+      "static.doubleclick.net",
+      "d33z8jzg2xbwjp.cloudfront.net",
+      "global.ib-ibi.com",
+      "s.ytimg.com",
+      "r1---sn-hpa7znsd.googlevideo.com",
+      "i9.ytimg.com",
+      "analytics.twitter.com",
+      "px.moatads.com",
+      "aa.agkn.com",
+      "csi.gstatic.com",
+      "sync.crwdcntrl.net",
+      "r6---sn-vgqsrn7s.googlevideo.com",
+      "su.addthis.com",
+      "beacon.krxd.net",
+      "code.createjs.com",
+      "r3---sn-hpa7zn7d.googlevideo.com",
+      "ade.googlesyndication.com",
+      "ml314.com",
+      "tags.bluekai.com",
+      "r18---sn-c0q7lnel.googlevideo.com",
+      "r1---sn-hpa7znsl.googlevideo.com",
+      "embed.spotify.com",
+      "i.scdn.co",
+      "sp-bootstrap.global.ssl.fastly.net",
+      "127.0.0.1",
+      "r2---sn-hpa7znsl.googlevideo.com",
+      "r4---sn-p5qlsnsy.googlevideo.com",
+      "ams1-ib.adnxs.com",
+      "cdn.tradelab.fr",
+      "cdn.adnxs.com",
+      "secure.adnxs.com",
+      "vcdn.adnxs.com",
+      "r3---sn-hpa7zns7.googlevideo.com",
+      "its.tradelab.fr",
+      "r4---sn-4g5e6n7k.googlevideo.com",
+      "c.betrad.com",
+      "js.turboadv.com",
+      "c.evidon.com",
+      "go.turboadv.com",
+      "l.betrad.com",
+      "r2---sn-hpa7zns6.googlevideo.com",
+      "r5---sn-hpa7znss.googlevideo.com"
+    ]
+  },
+  "www.youronlinechoices.com": {
+    "hostname": "www.youronlinechoices.com",
+    "favicon": "http://www.youronlinechoices.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "p.jwpcdn.com",
+      "fonts.googleapis.com",
+      "ajax.microsoft.com",
+      "yoc.edaa.eu",
+      "fonts.gstatic.com",
+      "youronlinechoiceseu01.wt-eu02.net",
+      "youronlinechoices.com"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png",
+    "firstPartyHostnames": [
+      "www.goanalytics.info",
+      "www.google.com",
+      "www.cognomix.it",
+      "www.whosampled.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "s.ytimg.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "i.ytimg.com",
+      "www.google.it",
+      "i9.ytimg.com",
+      "www.google.com",
+      "static.doubleclick.net",
+      "www.gstatic.com",
+      "clients1.google.com",
+      "i1.ytimg.com",
+      "fonts.googleapis.com",
+      "pubads.g.doubleclick.net",
+      "securepubads.g.doubleclick.net",
+      "ad.doubleclick.net",
+      "www.googleapis.com",
+      "tpc.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "i3.ytimg.com",
+      "www.googletagservices.com",
+      "adservice.google.it",
+      "adservice.google.com",
+      "www.google-analytics.com",
+      "cm.g.doubleclick.net",
+      "ade.googlesyndication.com",
+      "a1.seadform.net",
+      "e100.yt.srs.doubleverify.com",
+      "e102.yt.srs.doubleverify.com",
+      "e101.yt.srs.doubleverify.com",
+      "e103.yt.srs.doubleverify.com",
+      "e105.yt.srs.doubleverify.com",
+      "e111.yt.srs.doubleverify.com",
+      "secure-ds.serving-sys.com",
+      "bs.serving-sys.com",
+      "r2---sn-hpa7znsl.googlevideo.com",
+      "r3---sn-hpa7zns7.googlevideo.com",
+      "r1---sn-hpa7znsd.googlevideo.com",
+      "s0.2mdn.net",
+      "googleads4.g.doubleclick.net",
+      "z.moatads.com",
+      "px.moatads.com",
+      "geo.moatads.com",
+      "r3---sn-hpa7zn7d.googlevideo.com",
+      "r2---sn-hpa7zns6.googlevideo.com",
+      "r5---sn-hpa7znss.googlevideo.com"
+    ]
+  },
+  "www8.smartadserver.com": {
+    "hostname": "www8.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cognomix.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "x.bidswitch.net": {
+    "hostname": "x.bidswitch.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ynuf.alipay.com": {
+    "hostname": "ynuf.alipay.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "it.aliexpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yoc.edaa.eu": {
+    "hostname": "yoc.edaa.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youronlinechoices.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "youronlinechoices.com": {
+    "hostname": "youronlinechoices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youronlinechoices.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "youronlinechoiceseu01.wt-eu02.net": {
+    "hostname": "youronlinechoiceseu01.wt-eu02.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youronlinechoices.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z.moatads.com": {
+    "hostname": "z.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net",
+      "www.whosampled.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z2jakqoshx.com": {
+    "hostname": "z2jakqoshx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.whosampled.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "zdbb.net": {
+    "hostname": "zdbb.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ziffdavis697674298673.moatads.com": {
+    "hostname": "ziffdavis697674298673.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.speedtest.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
