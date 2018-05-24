@@ -23,7 +23,10 @@ void setup () {
   //size (1280, 650);//, P2D);
   fullScreen ();
   background (bg_color);
-
+  if (collegamenti_colorati) { 
+    collegamenti = true;
+    chi_si_salva = true;
+  }
   if (collegamenti) {
     collegamenti_tra_siti = new HashMap <String, ArrayList <Posizione>> ();
     if (collegamenti_colorati) {
@@ -44,7 +47,7 @@ void setup () {
     }
   }
   if (chi_si_salva) terze_parti = new IntDict ();
-
+  
   loadJSON ();
   drawSites ();
   noLoop ();
@@ -79,7 +82,7 @@ void drawSites () {
         for (Posizione posizione : posizioni) {
           // se non e' tra le 3 parti + frequenti
           if (collegamenti_colorati && domini_e_colori.containsKey(terza_parte)) stroke (domini_e_colori.get(terza_parte), alpha_collegamenti);
-          else stroke (collegamenti_color, 90);
+          else stroke (terze_parti_color, 30);
           line (pos3p.x, pos3p.y, posizione.x, posizione.y);
           noStroke ();
         }
