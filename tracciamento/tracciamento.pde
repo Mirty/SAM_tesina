@@ -23,6 +23,7 @@ void setup () {
   //size (1280, 650);//, P2D);
   fullScreen ();
   background (bg_color);
+  frameRate (1);
   if (collegamenti_colorati) { 
     collegamenti = true;
     chi_si_salva = true;
@@ -47,13 +48,30 @@ void setup () {
     }
   }
   if (chi_si_salva) terze_parti = new IntDict ();
-  
+
   loadJSON ();
-  drawSites ();
-  noLoop ();
 }
 
 void draw () {
+  background (bg_color);
+  drawSites ();
+  boolean onSite = false;
+  for (String sito : editori_e_3parti.keySet()) {
+    if (editori_e_3parti.get(sito).isMouseOver()) {
+      editori_e_3parti.get(sito).whenMouseOver ();
+      onSite = true;
+      break;
+    }
+    for (Sito terza_parte : editori_e_3parti.get(sito).terze_parti) {
+      if (terza_parte.isMouseOver()) {
+        terza_parte.whenMouseOver ();
+        onSite = true;
+        break;
+      }
+    }
+  }
+  if (onSite) cursor (HAND);
+  else cursor (ARROW);
 }
 
 void drawSites () {

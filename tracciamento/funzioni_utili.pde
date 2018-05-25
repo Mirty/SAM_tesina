@@ -31,3 +31,7 @@ Posizione aggiungiPosizione (Posizione posizione_dominio, float angolo, int i) {
   posizione = new Posizione (pos_x, pos_y);
   return posizione;
 }
+
+boolean isBetween (float value, float extr1, float extr2) {
+  return value >= min (extr1, extr2) && value <= max (extr1, extr2);
+}
