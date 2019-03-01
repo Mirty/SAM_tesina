@@ -1,7 +1,11 @@
 # Tracking the trackers
 using Firefox Lightbeam and Processing to visualize who is tracking me during my navigation on the internet.
 
-progetto per il corso di Sicurezza per Applicazioni Multimediali
+![alt text](https://github.com/Mirty/tracking-the-trackers/blob/master/imgs/3.png)
+
+a project for the "Sicurezza per Applicazioni Multimediali" exam 
+
+![alt text](https://github.com/Mirty/tracking-the-trackers/blob/master/imgs/1.png)
 
 To test the code:
 1. clone my repository
@@ -17,3 +21,6 @@ To test the code:
 
 
 If you experience a slow visualization then probably the JSON file contains too many data. You can reset Firefox Lightbeam clicking on "Reset Data" button, surf the net for some time and then restart from point 4.
+
+
+![alt text](https://github.com/Mirty/tracking-the-trackers/blob/master/imgs/2.png)
