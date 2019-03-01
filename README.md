@@ -1,5 +1,5 @@
 # Tracking the trackers
-
+using Firefox Lightbeam and Processing to visualize who is tracking me during my navigation on the internet.
 
 progetto per il corso di Sicurezza per Applicazioni Multimediali
 
