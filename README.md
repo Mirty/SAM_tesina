@@ -1,4 +1,4 @@
-# Tracking the trackers
+# Discovering trackers
 using Firefox Lightbeam and Processing to visualize who is tracking me during my navigation on the internet.
 
 ![alt text](https://github.com/Mirty/tracking-the-trackers/blob/master/imgs/3.png)
